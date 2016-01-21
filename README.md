@@ -7,4 +7,6 @@ You can do same for bool, byte, decimal, double, char, short, long, object, sbyt
 
 You can convert your .NET Framework types back to keywords. Simply hit Ctrl + Shift + M.
 
+Published in visualstudiogallery: https://visualstudiogallery.msdn.microsoft.com/a91088d3-09d0-4884-87fc-9e5233b94d1f
+
 Enjoy ;)
